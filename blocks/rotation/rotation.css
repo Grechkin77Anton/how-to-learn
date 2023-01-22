@@ -9,6 +9,6 @@
   
   .rotation{
     animation: moving 20s infinite linear;
-    transform-origin: 50% 50%
+    transform-origin: 50% 50%;
   }
   
